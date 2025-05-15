@@ -39,4 +39,5 @@ I’m open to:
 > 🌍 *"Code with purpose, design with empathy, speak with impact."*
 
 📫 Reach out:  
-[LinkedIn](#) | [Portfolio](#) | [Email](#)
+[LinkedIn](www.linkedin.com/in/sarah-amaylia-a960a92aa)
+[Email](mailto:sarahamaylai10@gmail.com)
