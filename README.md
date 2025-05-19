@@ -13,10 +13,6 @@ I'm a passionate student who blends **technology, communication, and leadership*
 - Building dynamic websites using HTML, CSS, JavaScript, and modern frameworks  
 - Active in campus **IT Division** for Student & Alumni Forum — connecting ideas with action  
 
-🌐 **Highlight Project**  
-**Eco-Brick Digital** — a web-based system to exchange plastic waste into eco-friendly building materials.  
-Focus: **Sustainability, digital tracking, and community empowerment.**
-
 🎤 **Beyond Code**  
 - Skilled in **public speaking**, moderating discussions, and leading group collaborations  
 - Experienced **Master of Ceremony** for campus and city-wide events  
